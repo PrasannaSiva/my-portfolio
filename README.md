@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi there! I'm Prasanna.
 
-## Getting Started
+Welcome to the repo for my personal portfolio.
 
-First, run the development server:
+I built this site to serve two purposes: to showcase my 9+ years of experience as a Senior React & React Native Developer, and to have a dedicated playground for experimenting with modern web animations and UI trends.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I'm currently based in Abu Dhabi, looking for opportunities to build scalable enterprise apps.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Live Site: [Insert your Vercel URL here]
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About the Design
+I wanted something that felt clean but "alive." I went with a Glassmorphism aesthetic because I love how it adds depth without clutter. The idea was to make the content pop while keeping the background dynamic.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* Frosted Glass: Used extensive backdrop filters for that premium feel.
+* Fluid Motion: Every element fades or slides in using Framer Motion—no jarring page loads.
+* Mobile First: Since I'm a mobile dev at heart, it works perfectly on your phone.
 
-## Learn More
+## The Tech Stack
+I kept the stack lightweight but powerful. No heavy bootstrap libraries, just pure React goodness.
 
-To learn more about Next.js, take a look at the following resources:
+* Framework: Next.js 14 (App Router) - for that blazing fast SEO and server components.
+* Styling: Tailwind CSS - because writing vanilla CSS in 2025 feels like a chore.
+* Animation: Framer Motion - for the scroll reveals and hover effects.
+* Icons: Lucide React - clean, lightweight SVGs.
+* Language: TypeScript - strict typing saves lives!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## How to Run This Locally
+If you want to poke around the code or use this as a template, feel free!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone the repo:
+   git clone https://github.com/YOUR_USERNAME/my-portfolio.git
+   cd my-portfolio
 
-## Deploy on Vercel
+2. Install the goods:
+   npm install
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Fire it up:
+   npm run dev
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Open http://localhost:3000 and you're good to go.
+
+## Project Structure
+* /app: All the page logic and layout (App Router).
+* /public: Static assets (like my profile picture).
+* tailwind.config.ts: Custom theme settings.
+
+## Let's Connect
+I am currently Open to Work for Senior Software Engineer roles. If you like what you see, or just want to chat about React Native bridges vs. JSI, hit me up.
+
+* LinkedIn: https://linkedin.com/in/prasanna-sivapragasam/
+* Email: prasannalqq3@gmail.com
+
+---
+Thanks for stopping by!
